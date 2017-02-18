@@ -10,7 +10,7 @@ class Layout extends React.Component {
   render() {
     return (
       <div>
-        <h1> Hello World </h1>
+        <h1 className="center">Enhance Video</h1>
         <Dropzone />
       </div>
     );
